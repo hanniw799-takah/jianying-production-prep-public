@@ -1,0 +1,41 @@
+.DS_Store
+*.log
+*.tmp
+*.cache
+.env
+.env.*
+
+# Media assets
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Jianying projects and caches
+*.draft
+*.jproj
+JianyingPro/
+CapCut*/
+cache/
+caches/
+
+# Product and temporary task output
+copy-pack-*
+Copy Pack*/
+asset-index-*
+edit-plan-*
+current-copy-*
+tmp/
+temp/
+output/
+outputs/
